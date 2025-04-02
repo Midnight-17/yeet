@@ -1,6 +1,6 @@
 def yeet():
     print("yeet")
 
-y = 6
+y = 1
 x = 5
 yeet()
